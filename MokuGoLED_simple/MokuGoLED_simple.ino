@@ -40,6 +40,10 @@ void setup() {
 
 }
 
+
+// The following code was used to generate the different LED sequences in the video.
+// Sections were uncommented and then filmed as needed.
+
 void loop() {
   // put your main code here, to run repeatedly:
 

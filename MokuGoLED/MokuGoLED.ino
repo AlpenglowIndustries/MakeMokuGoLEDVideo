@@ -41,6 +41,9 @@ void setup() {
 
 }
 
+// The following code was used to generate the different LED sequences in the video.
+// Sections were uncommented and then filmed as needed.
+
 void loop() {
   // put your main code here, to run repeatedly:
 
@@ -52,6 +55,8 @@ void loop() {
   // Rainbow fading sequence for discrete LEDs
   // rainbowPulse(10);
   // rainbowPulse(10);
+
+// // Sequences for the WS2812B strip
 
   // for (int i = 0; i < 3; i++){
   //   // syntax: LED number, strip.Color(red, grn, blu)
